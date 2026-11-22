@@ -6,7 +6,7 @@ Claude Code, Codex, Claude Desktop or any MCP client can read your design, follo
 
 [Website](https://www.wonderblok.app) · [Docs](https://www.wonderblok.app/docs) · [Universe patterns](https://www.wonderblok.app/universe) · [Download](https://github.com/Reka-ID/wonderblok-releases/releases/latest)
 
-![Claude Code drafts an onboarding flow from Universe in Wonderblok, on your tokens, and builds it](https://www.wonderblok.app/readme/demo.gif)
+![Claude Code drafts an onboarding flow from Universe in Wonderblok, on your tokens, and builds it](https://www.wonderblok.app/readme/demo.gif?v=2)
 
 ## What it does
 
