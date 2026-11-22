@@ -6,9 +6,11 @@ Claude Code, Codex, Claude Desktop or any MCP client can read your design, follo
 
 [Website](https://www.wonderblok.app) · [Docs](https://www.wonderblok.app/docs) · [Universe patterns](https://www.wonderblok.app/universe) · [Download](https://github.com/Reka-ID/wonderblok-releases/releases/latest)
 
+![Claude Code drafts an onboarding flow from Universe in Wonderblok, on your tokens, and builds it](https://www.wonderblok.app/readme/demo.gif)
+
 ## What it does
 
-- **A real canvas.** Frames with auto layout, components, tokens with modes (light and dark), vector paths, prototypes, and export to PNG, SVG and PDF.
+- **A real canvas.** Frames with auto layout, components, tokens with modes (light and dark), vector paths, prototypes, and export to PNG, JPG, WebP, SVG and PDF.
 - **Your agent edits, not just reads.** It reads frames, components and tokens, and applies edits to the file you have open. You and the agent can work on the same file at once.
 - **Rules before edits.** Every edit from an agent must carry the hash of your current design rules, so it has to read them first. Paint and fonts must use your tokens: an off-system color is rejected.
 - **Start from proven patterns.** [Universe](https://www.wonderblok.app/universe) is a library of app UI patterns and user flows (onboarding, log in, send money, checkout, empty states and more). Your agent reads a flow and draws it on your design system.
